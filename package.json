@@ -1,0 +1,15 @@
+{
+  "name": "building-wc-tool",
+  "version": "1.0.0",
+  "description": "Creating a cmd tool to perform some operation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshim",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
